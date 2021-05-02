@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77ac8be2.chunk.css",
+    "main.js": "/static/js/main.e0831537.chunk.js",
+    "main.js.map": "/static/js/main.e0831537.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ddf980d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ddf980d2.js.map",
+    "static/css/2.d97c81c1.chunk.css": "/static/css/2.d97c81c1.chunk.css",
+    "static/js/2.904b5411.chunk.js": "/static/js/2.904b5411.chunk.js",
+    "static/js/2.904b5411.chunk.js.map": "/static/js/2.904b5411.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d97c81c1.chunk.css.map": "/static/css/2.d97c81c1.chunk.css.map",
+    "static/css/main.77ac8be2.chunk.css.map": "/static/css/main.77ac8be2.chunk.css.map",
+    "static/js/2.904b5411.chunk.js.LICENSE.txt": "/static/js/2.904b5411.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/chat.06d88594.svg": "/static/media/chat.06d88594.svg",
+    "static/media/circle-fill.b5244bdb.svg": "/static/media/circle-fill.b5244bdb.svg",
+    "static/media/hamburger.e3a7311f.svg": "/static/media/hamburger.e3a7311f.svg",
+    "static/media/homepageimage.059a5a98.png": "/static/media/homepageimage.059a5a98.png",
+    "static/media/login.103b30a1.svg": "/static/media/login.103b30a1.svg",
+    "static/media/people.1c3bd761.svg": "/static/media/people.1c3bd761.svg",
+    "static/media/search.b8008c59.svg": "/static/media/search.b8008c59.svg",
+    "static/media/x.34e88f8b.svg": "/static/media/x.34e88f8b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf980d2.js",
+    "static/css/2.d97c81c1.chunk.css",
+    "static/js/2.904b5411.chunk.js",
+    "static/css/main.77ac8be2.chunk.css",
+    "static/js/main.e0831537.chunk.js"
+  ]
+}
