@@ -1,8 +1,8 @@
 {
   "name": "ruhacks-group",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://JLambertazzo.github.io/ruhacks-homepage",
+  "private": false,
+  "homepage": "https://JLambertazzo.github.io/ruhacks-homepage",
   "dependencies": {
     "@progress/kendo-licensing": "^1.1.4",
     "@progress/kendo-react-animation": "^4.5.0",
