@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@800&display=swap');
+
+
+
+.home-container {
+    width: 100%;
+    padding: 30px 30px 0 30px;
+    color: #FFFFFF;
+
+    h1 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 96px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .image {
+        float: left;
+        width: 50%;
+        transform: translate(-1em, -12em);
+    }
+
+    .content {
+        float: right;
+        width: 50%;
+        transform: translate(0, -2em);
+    }
+
+    .homepage-img {
+        height: 100vh;
+        object-fit: contain;
+    }
+
+    .btn-main {
+        display: inline-block;
+        background: 0%;
+        color: #fff;
+        border: 3px solid #FFF;
+        padding: 15px 70px;
+        margin: 15px 5px;
+        border-radius: 0px;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+
+        &:hover {
+            border: 3px solid #000000;
+            color: #000000;
+        }
+    }
+}
+

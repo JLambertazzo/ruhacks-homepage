@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  // FOR TESTING -- remove after adjusting app.js
+  // position: absolute;
+  // top: 0;
+  width: 100vw;
+
+  a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    color: ivory;
+
+    &:hover {
+      background: lightgrey;
+    }
+  }
+
+  .nav-left {
+    display: flex;
+    align-items: center;
+
+    img {
+      border-radius: 50%;
+      cursor: pointer;
+      z-index: 1000;
+    }
+
+    * {
+      margin: 20px;
+    }
+  }
+
+  .nav-right {
+    * {
+      margin: 20px;
+    }
+  }
+}
